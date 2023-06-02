@@ -1,3 +1,4 @@
+
 function laCajaDePandora(nombre) {
     const nombre = 'Lucas';
 		return nombre
@@ -9,4 +10,11 @@ function Lucas() {
 		edad: 24,
 		nacionalidad: 'Argentina campeon del mundo (MUCHACHOOOS!)'
 	}
+
+function Sofi(){
+    return {
+        nombre: 'Sofi',
+        edad: 32,
+        nacionalidad: 'Argentina'
+    }
 }
