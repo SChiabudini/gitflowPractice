@@ -1,8 +1,13 @@
 
-function laCajaDePandora(nombre) {
-    const nombre = 'Lucas';
-		return nombre
+function laCajaDePandora(numero) {
+    const nombre = 'Mati';
+    return nombre
 }
+
+function Mati(){
+    return {
+        nombre: 'Mati',
+        edad: 30,
 
 function Lucas() {
 	return {
@@ -15,6 +20,7 @@ function Sofi(){
     return {
         nombre: 'Sofi',
         edad: 32,
+
         nacionalidad: 'Argentina'
     }
 }
