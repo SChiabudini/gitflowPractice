@@ -1,12 +1,12 @@
 function laCajaDePandora(numero) {
-    const diego = "mamaguevo";
-    const tengoTos = 'desdeElMartes';
-    const trabajo = 'Hoy no trabajo';
-    const trabajo2 = 'mañana si :c'
-    for (let index = 0; index < array.length; index++) {
-        const element = array[index];
+    const nombre = 'Mati';
+    return nombre
+}
 
+function Mati(){
+    return {
+        nombre: 'Mati',
+        edad: 30,
+        nacionalidad: 'Argentina'
     }
-
-    return console.log("no me quiero bañar");
 }
