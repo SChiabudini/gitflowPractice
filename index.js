@@ -1,6 +1,11 @@
 function laCajaDePandora(numero){
-    const diego = "mamaguevo";
-    const tengoTos = 'desdeElMartes';
-		const trabajo= 'Hoy no trabajo';
-		const trabajo2 = ' mañana si :c'
+    const nombre = "gaston";
+}
+
+function gaston(){
+    return {
+        nombre: "gaston",
+        edad: 22,
+        nacionalidad: "Argentina"
+    }
 }
