@@ -34,6 +34,7 @@ function Mati(){
     return {
         nombre: 'Mati',
         edad: 30,
+        maña: "huele pega"
     }
 }
 
